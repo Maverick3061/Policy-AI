@@ -1,0 +1,26 @@
+{
+  "total_questions": 25,
+  "http_successful": 25,
+  "http_failed": 0,
+  "http_success_rate_pct": 100.0,
+  "responses_with_citations": 25,
+  "citation_id_consistency_count": 13,
+  "requests_requiring_retries": 7,
+  "p50_latency_ms": 1192.84,
+  "p95_latency_ms": 46397.96,
+  "mean_latency_ms": 7966.85,
+  "p50_total_elapsed_ms": 1612.65,
+  "p95_total_elapsed_ms": 46398.05,
+  "groundedness_reviewed": 0,
+  "groundedness_passed": 0,
+  "citation_accuracy_reviewed": 0,
+  "citation_accuracy_passed": 0,
+  "groundedness_rate_pct": null,
+  "citation_accuracy_rate_pct": null,
+  "notes": [
+    "HTTP 200 does not guarantee a correct or grounded answer.",
+    "Citation ID consistency is a format check, not evidence that the citation supports the claim.",
+    "Latency percentiles include only HTTP 200 final attempts; total_elapsed_ms includes retries and waiting.",
+    "Manual groundedness and citation accuracy require evidence review."
+  ]
+}

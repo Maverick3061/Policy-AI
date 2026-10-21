@@ -1,0 +1,1166 @@
+[
+  {
+    "question": "How many annual leave days do full-time employees get?",
+    "source": "leave.md",
+    "status": 200,
+    "answer": "Full‑time employees receive **20 working days of paid annual leave per calendar year** (prorated for partial years).[leave.md::0]",
+    "citations": [
+      {
+        "distance": 0.4115857481956482,
+        "id": "leave.md::0",
+        "source": "leave.md",
+        "text": "# Annual Leave and Time Off Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Eligibility Full-time employees receive 20 working days of paid annual leave per calendar year, prorated for partial years. ### Procedure and accountability for eligibility Employees should follow the stated eligibility requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the eligibility policy and does not create additional entitlements. ## Requests Submit annual leave requests in the HR portal at least 10 calendar days before the proposed start date. Managers normally respond within 3 working days. ### Procedure and accountability for requests Employees should follow the stated requests requirement, retain relevant records when applicable, and contact the responsible department for clarification."
+      }
+    ],
+    "error": null,
+    "latency_ms": 20767.0,
+    "total_elapsed_ms": 20767.05,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 20767.0,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "leave.md::0"
+    ],
+    "citation_ids_returned": [
+      "leave.md::0"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How early should I request annual leave?",
+    "source": "leave.md",
+    "status": 200,
+    "answer": "You should submit an annual leave request at least **10 calendar days before the proposed start date**. Managers normally respond within three working days.  \n\n[leave.md::0] [leave.md::5]",
+    "citations": [
+      {
+        "distance": 0.3386949896812439,
+        "id": "leave.md::0",
+        "source": "leave.md",
+        "text": "# Annual Leave and Time Off Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Eligibility Full-time employees receive 20 working days of paid annual leave per calendar year, prorated for partial years. ### Procedure and accountability for eligibility Employees should follow the stated eligibility requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the eligibility policy and does not create additional entitlements. ## Requests Submit annual leave requests in the HR portal at least 10 calendar days before the proposed start date. Managers normally respond within 3 working days. ### Procedure and accountability for requests Employees should follow the stated requests requirement, retain relevant records when applicable, and contact the responsible department for clarification."
+      },
+      {
+        "distance": 0.40274667739868164,
+        "id": "leave.md::5",
+        "source": "leave.md",
+        "text": "ncy to HR before relying on the figure. Record any correction in the HR system. **Owner responsibilities.** Managers review requests against the recorded balance and team coverage. HR resolves disputed balances; managers should not independently create extra days. **Scope and limits.** This guide does not establish a new accrual formula, payout entitlement, or probation restriction. ### Planning and approval timeline **Rule and interpretation.** The policy requires annual leave requests at least 10 calendar days before the proposed start and states managers normally respond within three working days. The two intervals use different day-counting conventions. **Worked scenario.** If leave starts on a Monday, the employee should count back calendar days, including weekends, to decide when to submit. A manager receiving the request on Friday measures the normal response window in working days. **Employee workflow.** Submit through the HR portal; include start and end dates, a coverage note and a reachable contact if appropriate; wait for approval before making irreversible commitments."
+      }
+    ],
+    "error": null,
+    "latency_ms": 980.41,
+    "total_elapsed_ms": 980.44,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 980.41,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "leave.md::0",
+      "leave.md::5"
+    ],
+    "citation_ids_returned": [
+      "leave.md::0",
+      "leave.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When is a medical certificate needed?",
+    "source": "leave.md",
+    "status": 200,
+    "answer": "A medical certificate is required for any sick‑leave absence that exceeds **three consecutive working days**.  \nThe policy states: “A medical certificate is required when the absence is longer than three consecutive working days” and clarifies that an absence covering four consecutive days requires a certificate, while three consecutive days do not trigger the requirement.  \n\nSources: [leave.md::6], [leave.md::1], [leave.md::7]",
+    "citations": [
+      {
+        "distance": 0.5760877132415771,
+        "id": "leave.md::6",
+        "source": "leave.md",
+        "text": "flow.** Submit through the HR portal; include start and end dates, a coverage note and a reachable contact if appropriate; wait for approval before making irreversible commitments. **Owner responsibilities.** The manager considers operational coverage and replies through the recorded workflow. If the request cannot be approved, the employee should discuss alternative dates. **Scope and limits.** Submitting on time does not guarantee approval, and this text does not create an emergency-leave exception. ### Sick leave and evidence **Rule and interpretation.** The policy provides 10 paid sick days per calendar year. A medical certificate is required when the absence is longer than three consecutive working days. **Worked scenario.** An absence covering four consecutive working days requires a certificate. Three consecutive working days do not meet the stated longer-than-three trigger, although other lawful requirements may apply."
+      },
+      {
+        "distance": 0.6233879923820496,
+        "id": "leave.md::1",
+        "source": "leave.md",
+        "text": "ountability for requests Employees should follow the stated requests requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the requests policy and does not create additional entitlements. ## Sick Leave Employees receive 10 paid sick days per calendar year. A medical certificate is required for absences longer than 3 consecutive working days. ### Procedure and accountability for sick leave Employees should follow the stated sick leave requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law."
+      },
+      {
+        "distance": 0.6251505613327026,
+        "id": "leave.md::7",
+        "source": "leave.md",
+        "text": "four consecutive working days requires a certificate. Three consecutive working days do not meet the stated longer-than-three trigger, although other lawful requirements may apply. **Employee workflow.** Notify the normal absence contact promptly; enter the absence into the designated HR workflow; provide the certificate when the stated threshold is met; avoid disclosing more medical detail than needed. **Owner responsibilities.** HR checks the leave record and required documentation. Managers should focus on scheduling coverage rather than requesting unnecessary medical history. **Scope and limits.** This guide does not define sick leave carryover, medical privacy law, or paid leave beyond the ten-day rule. ### Year-end balances and carryover **Rule and interpretation.** A maximum of five unused annual leave days may be carried into the next year, and carried days must be used by March 31. **Worked scenario.** If a worker ends December with seven unused days, this policy authorizes carrying at most five; it does not promise that the other two will be paid out."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1057.28,
+    "total_elapsed_ms": 1057.36,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 1057.28,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "leave.md::1",
+      "leave.md::6",
+      "leave.md::7"
+    ],
+    "citation_ids_returned": [
+      "leave.md::1",
+      "leave.md::6",
+      "leave.md::7"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How many remote days are permitted each week?",
+    "source": "remote-work.md",
+    "status": 200,
+    "answer": "Eligible employees may work remotely **up to three days each week** with written manager approval. This is a ceiling, not an automatic entitlement. [remote-work.md::4]",
+    "citations": [
+      {
+        "distance": 0.40384429693222046,
+        "id": "remote-work.md::4",
+        "source": "remote-work.md",
+        "text": "ovals **Rule and interpretation.** Eligible employees may work remotely up to three days each week with written manager approval. Roles that require physical presence are excluded. **Worked scenario.** A software analyst might request two remote days, but a laboratory technician whose duties require on-site equipment cannot infer eligibility from the three-day maximum. **Employee workflow.** Describe proposed remote days, tasks and availability; obtain written approval; retain the approval and confirm it still fits the current role. **Owner responsibilities.** Managers assess role duties and coverage before approving. A verbal conversation alone does not replace the stated written approval. **Scope and limits.** Three days is a ceiling, not an automatic entitlement or permission to work remotely every week. ### Core hours and team coordination **Rule and interpretation.** Core collaboration hours are 10:00 to 15:00 local time, Monday through Friday. These hours define overlap, not the entire working day."
+      }
+    ],
+    "error": null,
+    "latency_ms": 877.53,
+    "total_elapsed_ms": 877.59,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 877.53,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "remote-work.md::4"
+    ],
+    "citation_ids_returned": [
+      "remote-work.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What are the core collaboration hours?",
+    "source": "remote-work.md",
+    "status": 200,
+    "answer": "Core collaboration hours are **10:00 to 15:00 local time, Monday through Friday**[remote-work.md::5][remote-work.md::0][remote-work.md::4]",
+    "citations": [
+      {
+        "distance": 0.39834368228912354,
+        "id": "remote-work.md::5",
+        "source": "remote-work.md",
+        "text": "eam coordination **Rule and interpretation.** Core collaboration hours are 10:00 to 15:00 local time, Monday through Friday. These hours define overlap, not the entire working day. **Worked scenario.** An employee may arrange focused work outside the overlap but should remain reachable during core hours on a normal working day. **Employee workflow.** Check calendar availability; schedule cross-team meetings within core hours where possible; notify the manager about planned absence using the applicable leave process. **Owner responsibilities.** Managers clarify the local-time reference for distributed teams and avoid assuming that remote work changes contractual working hours. **Scope and limits.** The policy does not specify overtime, flex-time balances, or time-zone conversion for international travel. ### Company equipment and connectivity **Rule and interpretation.** Remote work should use company-authorized devices and secure access consistent with the information-security policy. A private home does not remove device-security obligations."
+      },
+      {
+        "distance": 0.4179685711860657,
+        "id": "remote-work.md::0",
+        "source": "remote-work.md",
+        "text": "# Remote and Hybrid Work Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Eligibility Employees may work remotely up to 3 days per week with written manager approval. Roles requiring physical attendance are not eligible. ### Procedure and accountability for eligibility Employees should follow the stated eligibility requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the eligibility policy and does not create additional entitlements. ## Hours Core collaboration hours are 10:00 to 15:00 local time, Monday through Friday. ### Procedure and accountability for hours Employees should follow the stated hours requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      },
+      {
+        "distance": 0.4594801068305969,
+        "id": "remote-work.md::4",
+        "source": "remote-work.md",
+        "text": "ovals **Rule and interpretation.** Eligible employees may work remotely up to three days each week with written manager approval. Roles that require physical presence are excluded. **Worked scenario.** A software analyst might request two remote days, but a laboratory technician whose duties require on-site equipment cannot infer eligibility from the three-day maximum. **Employee workflow.** Describe proposed remote days, tasks and availability; obtain written approval; retain the approval and confirm it still fits the current role. **Owner responsibilities.** Managers assess role duties and coverage before approving. A verbal conversation alone does not replace the stated written approval. **Scope and limits.** Three days is a ceiling, not an automatic entitlement or permission to work remotely every week. ### Core hours and team coordination **Rule and interpretation.** Core collaboration hours are 10:00 to 15:00 local time, Monday through Friday. These hours define overlap, not the entire working day."
+      }
+    ],
+    "error": null,
+    "latency_ms": 791.53,
+    "total_elapsed_ms": 791.56,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 791.53,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "remote-work.md::0",
+      "remote-work.md::4",
+      "remote-work.md::5"
+    ],
+    "citation_ids_returned": [
+      "remote-work.md::0",
+      "remote-work.md::4",
+      "remote-work.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Can I work remotely from another country without approval?",
+    "source": "remote-work.md",
+    "status": 200,
+    "answer": "No. The policy states that working from another country requires written HR and information‑security approval before travel, and that regular manager approval for remote days does not substitute for this.  \n[remote-work.md::6]  \n[remote-work.md::7]",
+    "citations": [
+      {
+        "distance": 0.395796000957489,
+        "id": "remote-work.md::6",
+        "source": "remote-work.md",
+        "text": ".** Remote work should use company-authorized devices and secure access consistent with the information-security policy. A private home does not remove device-security obligations. **Worked scenario.** An employee whose laptop fails during a remote day should report the problem rather than move restricted files to an unapproved personal computer. **Employee workflow.** Check device readiness before starting; use approved connections and MFA; protect the screen from visitors; report device loss or suspected access immediately. **Owner responsibilities.** Managers coordinate with IT for access problems and determine whether alternative work arrangements are necessary. **Scope and limits.** No reimbursement amount or permission for personal devices is established here. ### International work location **Rule and interpretation.** Working from another country requires written HR and information-security approval before travel. The regular manager approval for remote days is not a substitute."
+      },
+      {
+        "distance": 0.40113288164138794,
+        "id": "remote-work.md::7",
+        "source": "remote-work.md",
+        "text": "nterpretation.** Working from another country requires written HR and information-security approval before travel. The regular manager approval for remote days is not a substitute. **Worked scenario.** An employee approved to work from home three days a week cannot assume the same approval covers a temporary stay overseas. **Employee workflow.** Raise the destination and dates before travel; request the two specified approvals in writing; confirm that access arrangements are approved before connecting abroad. **Owner responsibilities.** HR reviews employment and location considerations; information security assesses access and data risks; the manager coordinates coverage. **Scope and limits.** This guide does not promise immigration, tax or employment-law clearance in any destination. ### Privacy of the workspace **Rule and interpretation.** Employees must maintain a private workspace and prevent unauthorized viewing of company information. This applies to paper and screens as well as calls."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1660.66,
+    "total_elapsed_ms": 1660.69,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 1660.66,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "remote-work.md::6",
+      "remote-work.md::7"
+    ],
+    "citation_ids_returned": [
+      "remote-work.md::6",
+      "remote-work.md::7"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Is MFA required for company email?",
+    "source": "security.md",
+    "status": 200,
+    "answer": "Yes. Multi‑factor authentication is mandatory for company email.  \n[security.md::4]  \n[security.md::0]",
+    "citations": [
+      {
+        "distance": 0.5259078741073608,
+        "id": "security.md::4",
+        "source": "security.md",
+        "text": " additional entitlements, deadlines or exceptions. Where a scenario is ambiguous, the controlling rule remains the policy statement above and the responsible owner must clarify it. ### Account protection and MFA **Rule and interpretation.** Multi-factor authentication is mandatory for company email, VPN and administrative accounts. Passwords must contain at least 14 characters and may not be shared. **Worked scenario.** A colleague asking to borrow another person’s login is not an exception to the password-sharing prohibition, even for urgent work. **Employee workflow.** Use individual accounts, complete MFA challenges, keep recovery options secure and report suspicious prompts through the incident channel. **Owner responsibilities.** IT manages approved account recovery; managers should not ask staff to disclose credentials to speed up a task. **Scope and limits.** This guide does not set a password-rotation frequency or approve a particular authenticator product."
+      },
+      {
+        "distance": 0.6064324378967285,
+        "id": "security.md::0",
+        "source": "security.md",
+        "text": "# Information Security Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Authentication Multi-factor authentication is mandatory for company email, VPN and administrative accounts. ### Procedure and accountability for authentication Employees should follow the stated authentication requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the authentication policy and does not create additional entitlements. ## Passwords Passwords must be at least 14 characters long. Password sharing is prohibited. ### Procedure and accountability for passwords Employees should follow the stated passwords requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1239.4,
+    "total_elapsed_ms": 1239.43,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 1239.4,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "security.md::0",
+      "security.md::4"
+    ],
+    "citation_ids_returned": [
+      "security.md::0",
+      "security.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How quickly must a lost device be reported?",
+    "source": "security.md",
+    "status": 200,
+    "answer": "A lost device must be reported to security@example.test **within one hour of discovery** (the clock starts when the loss is first noticed). [security.md::5]",
+    "citations": [
+      {
+        "distance": 0.4643445611000061,
+        "id": "security.md::5",
+        "source": "security.md",
+        "text": "not ask staff to disclose credentials to speed up a task. **Scope and limits.** This guide does not set a password-rotation frequency or approve a particular authenticator product. ### Reporting a security incident **Rule and interpretation.** Suspected phishing, device loss or unauthorized data access must be reported to security@example.test within one hour of discovery. The clock begins when the issue is discovered. **Worked scenario.** If an employee notices a missing laptop at 14:00, the stated reporting deadline is within one hour of that discovery, not one hour after a later investigation finishes. **Employee workflow.** Record when the issue was noticed; notify the specified security mailbox promptly; provide device or account identifiers without sending unnecessary sensitive content. **Owner responsibilities.** The security team assesses containment and follow-up. Managers support prompt reporting rather than waiting for proof that an incident occurred. **Scope and limits.** Employees are not asked to perform forensic investigation or promise a resolution time."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1425.57,
+    "total_elapsed_ms": 8205.23,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 280.49,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1425.57,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "security.md::5"
+    ],
+    "citation_ids_returned": [
+      "security.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Can restricted data be uploaded to public AI tools?",
+    "source": "security.md",
+    "status": 200,
+    "answer": "No. Restricted information must not be uploaded to public AI services.  \n[security.md::6]  \n[security.md::2]",
+    "citations": [
+      {
+        "distance": 0.4925549626350403,
+        "id": "security.md::6",
+        "source": "security.md",
+        "text": "mpt reporting rather than waiting for proof that an incident occurred. **Scope and limits.** Employees are not asked to perform forensic investigation or promise a resolution time. ### Information classification and AI tools **Rule and interpretation.** Company data has four classifications: Public, Internal, Confidential and Restricted. Restricted information must not be uploaded to public AI services. **Worked scenario.** A team member drafting a summary must not paste restricted customer records into a public chatbot, even if the intended output is only a short paragraph. **Employee workflow.** Identify the classification before sharing; use authorized systems; remove unnecessary sensitive content from routine communications; ask information security when classification is uncertain. **Owner responsibilities.** Information owners classify records and security personnel advise on approved handling. **Scope and limits.** The rule explicitly prohibits restricted uploads; it does not imply that all other classifications are freely shareable."
+      },
+      {
+        "distance": 0.5073302388191223,
+        "id": "security.md::2",
+        "source": "security.md",
+        "text": " policy owner and must not override applicable law. This section is intended to clarify administrative handling of the incidents policy and does not create additional entitlements. ## Data Classification Data is classified Public, Internal, Confidential or Restricted. Restricted information must not be uploaded to public AI services. ### Procedure and accountability for data classification Employees should follow the stated data classification requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the data classification policy and does not create additional entitlements. ## Devices Company devices must use full-disk encryption and automatic screen locking after 5 minutes of inactivity."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1407.98,
+    "total_elapsed_ms": 7969.47,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 298.16,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1407.98,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "security.md::2",
+      "security.md::6"
+    ],
+    "citation_ids_returned": [
+      "security.md::2",
+      "security.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When must expense claims be submitted?",
+    "source": "expenses.md",
+    "status": 200,
+    "answer": "Expense claims must be submitted **within 30 calendar days after the expense** and include itemized receipts.  \n[expenses.md::0] [expenses.md::4]",
+    "citations": [
+      {
+        "distance": 0.414842426776886,
+        "id": "expenses.md::4",
+        "source": "expenses.md",
+        "text": "retation.** Reimbursement claims must be submitted within 30 calendar days after the expense and include itemized receipts. A bank-card total alone may not show what was purchased. **Worked scenario.** For an expense incurred on a business trip, the employee should retain the itemized vendor receipt and submit the claim before the stated calendar-day window ends. **Employee workflow.** Capture the date, business purpose, currency, amount and itemized receipt; enter the claim in the expense process; respond to finance questions with supporting records. **Owner responsibilities.** Managers check the business purpose and finance validates supporting documentation. **Scope and limits.** This guide does not establish an automatic grace period or a reimbursement guarantee for late submissions. ### Domestic meal limits **Rule and interpretation.** The domestic meal reimbursement limit is 45 USD per day. Alcohol is not reimbursable. The daily cap should not be confused with a per-meal allowance."
+      },
+      {
+        "distance": 0.5197699069976807,
+        "id": "expenses.md::0",
+        "source": "expenses.md",
+        "text": "# Travel and Expense Reimbursement Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Submission Submit reimbursement claims within 30 calendar days after the expense, with itemized receipts. ### Procedure and accountability for submission Employees should follow the stated submission requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the submission policy and does not create additional entitlements. ## Meals The domestic meal reimbursement limit is 45 USD per day. Alcohol is not reimbursable. ### Procedure and accountability for meals Employees should follow the stated meals requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 702.47,
+    "total_elapsed_ms": 7768.16,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 309.87,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 702.47,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "expenses.md::0",
+      "expenses.md::4"
+    ],
+    "citation_ids_returned": [
+      "expenses.md::0",
+      "expenses.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the domestic meal allowance?",
+    "source": "expenses.md",
+    "status": 200,
+    "answer": "The domestic meal reimbursement limit is **45 USD per day**. Alcohol is not reimbursable.  \n[expenses.md::5] [expenses.md::0]",
+    "citations": [
+      {
+        "distance": 0.42677831649780273,
+        "id": "expenses.md::5",
+        "source": "expenses.md",
+        "text": "s **Rule and interpretation.** The domestic meal reimbursement limit is 45 USD per day. Alcohol is not reimbursable. The daily cap should not be confused with a per-meal allowance. **Worked scenario.** An employee buying breakfast and dinner on the same domestic travel day should consider their combined eligible meal spending against the 45 USD daily limit. **Employee workflow.** Keep receipts for meals, identify the relevant travel date and exclude alcohol from the requested reimbursement. **Owner responsibilities.** Finance applies the published limit and seeks clarification if receipts mix eligible and ineligible items. **Scope and limits.** This policy does not specify international per-diem amounts, tips or meal allowances for non-travel days. ### Hotel rate approval **Rule and interpretation.** A hotel stay costing more than 180 USD per night requires preapproval from the finance director. The condition concerns the nightly rate. **Worked scenario.** A proposed room costing 190 USD per night triggers the preapproval rule even if the employee plans only a single night."
+      },
+      {
+        "distance": 0.4683023691177368,
+        "id": "expenses.md::0",
+        "source": "expenses.md",
+        "text": "# Travel and Expense Reimbursement Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Submission Submit reimbursement claims within 30 calendar days after the expense, with itemized receipts. ### Procedure and accountability for submission Employees should follow the stated submission requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the submission policy and does not create additional entitlements. ## Meals The domestic meal reimbursement limit is 45 USD per day. Alcohol is not reimbursable. ### Procedure and accountability for meals Employees should follow the stated meals requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1231.56,
+    "total_elapsed_ms": 8124.49,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 337.04,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1231.56,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "expenses.md::0",
+      "expenses.md::5"
+    ],
+    "citation_ids_returned": [
+      "expenses.md::0",
+      "expenses.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When does a hotel need preapproval?",
+    "source": "expenses.md",
+    "status": 200,
+    "answer": "A hotel stay requires pre‑approval when the nightly rate exceeds $180 USD. The rule applies to any stay, even a single night, and the finance director must approve the booking before it is made. The pre‑approval must be documented and retained with the claim.  \n\n[expenses.md::6] [expenses.md::5]",
+    "citations": [
+      {
+        "distance": 0.4965624213218689,
+        "id": "expenses.md::6",
+        "source": "expenses.md",
+        "text": "he condition concerns the nightly rate. **Worked scenario.** A proposed room costing 190 USD per night triggers the preapproval rule even if the employee plans only a single night. **Employee workflow.** Compare the quoted nightly rate with the threshold before booking; obtain the finance director’s approval where required; retain the written approval with the claim. **Owner responsibilities.** Finance checks the approval trail against the hotel invoice and business purpose. **Scope and limits.** The rule does not specify how taxes or fees affect the threshold; seek finance clarification instead of guessing. ### Airfare class and exceptions **Rule and interpretation.** Economy airfare is the default travel class. Business-class travel requires written executive approval. **Worked scenario.** A traveler who prefers business class for a long journey must still obtain written executive approval before treating the upgrade as reimbursable."
+      },
+      {
+        "distance": 0.5870980024337769,
+        "id": "expenses.md::5",
+        "source": "expenses.md",
+        "text": "s **Rule and interpretation.** The domestic meal reimbursement limit is 45 USD per day. Alcohol is not reimbursable. The daily cap should not be confused with a per-meal allowance. **Worked scenario.** An employee buying breakfast and dinner on the same domestic travel day should consider their combined eligible meal spending against the 45 USD daily limit. **Employee workflow.** Keep receipts for meals, identify the relevant travel date and exclude alcohol from the requested reimbursement. **Owner responsibilities.** Finance applies the published limit and seeks clarification if receipts mix eligible and ineligible items. **Scope and limits.** This policy does not specify international per-diem amounts, tips or meal allowances for non-travel days. ### Hotel rate approval **Rule and interpretation.** A hotel stay costing more than 180 USD per night requires preapproval from the finance director. The condition concerns the nightly rate. **Worked scenario.** A proposed room costing 190 USD per night triggers the preapproval rule even if the employee plans only a single night."
+      }
+    ],
+    "error": null,
+    "latency_ms": 939.06,
+    "total_elapsed_ms": 7556.83,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 282.01,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 939.06,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "expenses.md::5",
+      "expenses.md::6"
+    ],
+    "citation_ids_returned": [
+      "expenses.md::5",
+      "expenses.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Who publishes the holiday calendar?",
+    "source": "holidays.md",
+    "status": 200,
+    "answer": "The holiday calendar is published by HR.  \n[holidays.md::4]  \n[holidays.md::0]",
+    "citations": [
+      {
+        "distance": 0.4688910245895386,
+        "id": "holidays.md::4",
+        "source": "holidays.md",
+        "text": " additional entitlements, deadlines or exceptions. Where a scenario is ambiguous, the controlling rule remains the policy statement above and the responsible owner must clarify it. ### Annual calendar publication **Rule and interpretation.** HR publishes the company holiday calendar each December for the following year. Employees should use the published calendar rather than assuming all public holidays apply identically. **Worked scenario.** A worker planning travel in January should check the calendar HR published the previous December instead of relying on last year’s list. **Employee workflow.** Locate the current calendar; verify the work location and applicable schedule; flag inconsistencies to HR before booking leave. **Owner responsibilities.** HR maintains the official holiday information and explains applicable regional differences. **Scope and limits.** This guide does not add new company holidays or define a jurisdiction-wide public holiday list. ### Standard working pattern **Rule and interpretation.** The standard workweek is Monday through Friday and totals 40 hours."
+      },
+      {
+        "distance": 0.5081251859664917,
+        "id": "holidays.md::0",
+        "source": "holidays.md",
+        "text": "# Public Holidays and Working Schedule Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Calendar HR publishes the company holiday calendar each December for the following year. ### Procedure and accountability for calendar Employees should follow the stated calendar requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the calendar policy and does not create additional entitlements. ## Schedule The standard workweek is Monday through Friday, 40 hours per week. ### Procedure and accountability for schedule Employees should follow the stated schedule requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1312.72,
+    "total_elapsed_ms": 7998.74,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 283.3,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1312.72,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "holidays.md::0",
+      "holidays.md::4"
+    ],
+    "citation_ids_returned": [
+      "holidays.md::0",
+      "holidays.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What happens when an employee works on a holiday?",
+    "source": "holidays.md",
+    "status": 200,
+    "answer": "When an employee works on a company holiday, they are entitled to an **alternative paid day off** that must be **approved by their manager**. The employee must record the holiday worked, obtain approval for the replacement day, and keep the arrangement visible in the schedule. The alternative day is **not self‑selected** without approval, and the policy does not create a cash bonus or set a deadline for using the day. Managers are responsible for ensuring coverage and approving the alternate day, while HR can clarify how the day is recorded.  \n\n[holidays.md::6] [holidays.md::5]",
+    "citations": [
+      {
+        "distance": 0.3681800961494446,
+        "id": "holidays.md::6",
+        "source": "holidays.md",
+        "text": "etation.** Employees required to work on a company holiday receive an alternative paid day off approved by their manager. The alternative day is not self-selected without approval. **Worked scenario.** An employee covering a holiday service desk should agree with their manager on when to take the alternative paid day. **Employee workflow.** Record the holiday worked, obtain approval for the replacement day and keep the arrangement visible in the schedule. **Owner responsibilities.** Managers ensure coverage and approve the alternate day; HR can clarify how the day is recorded. **Scope and limits.** This section does not create a cash bonus or define a deadline for using the alternative day. ### Regional calendar differences **Rule and interpretation.** Holiday observance may vary by work location. The HR calendar and regional rules should be consulted together before assuming a day is nonworking. **Worked scenario.** Two employees in different locations may see different holiday dates even when they collaborate on the same project."
+      },
+      {
+        "distance": 0.4005628824234009,
+        "id": "holidays.md::5",
+        "source": "holidays.md",
+        "text": "ays or define a jurisdiction-wide public holiday list. ### Standard working pattern **Rule and interpretation.** The standard workweek is Monday through Friday and totals 40 hours. The policy does not specify a universal start or finish time. **Worked scenario.** An employee may know that their weekly schedule totals 40 hours but should not infer that every team must start at 09:00. **Employee workflow.** Check the team roster and applicable calendar; record leave or approved absence through the correct channel. **Owner responsibilities.** Managers organize schedules consistently with the 40-hour standard and operational requirements. **Scope and limits.** No overtime premium, break length or shift allowance is established here. ### Working on a company holiday **Rule and interpretation.** Employees required to work on a company holiday receive an alternative paid day off approved by their manager. The alternative day is not self-selected without approval."
+      }
+    ],
+    "error": null,
+    "latency_ms": 3465.9,
+    "total_elapsed_ms": 10075.18,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 326.36,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 3465.9,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "holidays.md::5",
+      "holidays.md::6"
+    ],
+    "citation_ids_returned": [
+      "holidays.md::5",
+      "holidays.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the standard weekly work schedule?",
+    "source": "holidays.md",
+    "status": 200,
+    "answer": "The standard weekly work schedule is Monday through Friday, totaling 40 hours per week.  \n[holidays.md::5]  \n[holidays.md::0]",
+    "citations": [
+      {
+        "distance": 0.3875936269760132,
+        "id": "holidays.md::5",
+        "source": "holidays.md",
+        "text": "ays or define a jurisdiction-wide public holiday list. ### Standard working pattern **Rule and interpretation.** The standard workweek is Monday through Friday and totals 40 hours. The policy does not specify a universal start or finish time. **Worked scenario.** An employee may know that their weekly schedule totals 40 hours but should not infer that every team must start at 09:00. **Employee workflow.** Check the team roster and applicable calendar; record leave or approved absence through the correct channel. **Owner responsibilities.** Managers organize schedules consistently with the 40-hour standard and operational requirements. **Scope and limits.** No overtime premium, break length or shift allowance is established here. ### Working on a company holiday **Rule and interpretation.** Employees required to work on a company holiday receive an alternative paid day off approved by their manager. The alternative day is not self-selected without approval."
+      },
+      {
+        "distance": 0.40425193309783936,
+        "id": "holidays.md::0",
+        "source": "holidays.md",
+        "text": "# Public Holidays and Working Schedule Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Calendar HR publishes the company holiday calendar each December for the following year. ### Procedure and accountability for calendar Employees should follow the stated calendar requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the calendar policy and does not create additional entitlements. ## Schedule The standard workweek is Monday through Friday, 40 hours per week. ### Procedure and accountability for schedule Employees should follow the stated schedule requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 961.44,
+    "total_elapsed_ms": 20329.63,
+    "attempt_count": 3,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 278.7,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 502,
+        "latency_ms": 511.51,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 3,
+        "status": 200,
+        "latency_ms": 961.44,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "holidays.md::0",
+      "holidays.md::5"
+    ],
+    "citation_ids_returned": [
+      "holidays.md::0",
+      "holidays.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the vendor gift threshold?",
+    "source": "conduct.md",
+    "status": 200,
+    "answer": "The policy states that any gift from a vendor **worth more than $50 USD** must be either declined or disclosed to compliance.  \n[conduct.md::5] [conduct.md::1]",
+    "citations": [
+      {
+        "distance": 0.3552336096763611,
+        "id": "conduct.md::5",
+        "source": "conduct.md",
+        "text": "fected employee. **Worked scenario.** An employee participating in a supplier decision should disclose a close personal relationship with a bidder before taking part in evaluation. **Employee workflow.** Describe the relationship or interest accurately; notify the designated compliance contact; follow any resulting instructions about participation. **Owner responsibilities.** Compliance determines appropriate management of the conflict and documents the decision. **Scope and limits.** A disclosure is not automatically a finding of misconduct, nor does it guarantee permission to proceed. ### Gifts from vendors **Rule and interpretation.** Vendor gifts worth more than 50 USD must be declined or disclosed to compliance. The wording is more than 50 USD, not 50 USD or more. **Worked scenario.** A gift valued at 75 USD falls above the threshold and must be declined or disclosed; a gift exactly at 50 USD does not trigger this particular greater-than threshold."
+      },
+      {
+        "distance": 0.5304198265075684,
+        "id": "conduct.md::1",
+        "source": "conduct.md",
+        "text": "nflicts requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the conflicts policy and does not create additional entitlements. ## Gifts Gifts from vendors worth more than 50 USD must be declined or disclosed to compliance. ### Procedure and accountability for gifts Employees should follow the stated gifts requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the gifts policy and does not create additional entitlements. ## Reporting Employees may report misconduct to the ethics mailbox or HR. Retaliation for good-faith reports is prohibited."
+      }
+    ],
+    "error": null,
+    "latency_ms": 941.98,
+    "total_elapsed_ms": 942.03,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 941.98,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "conduct.md::1",
+      "conduct.md::5"
+    ],
+    "citation_ids_returned": [
+      "conduct.md::1",
+      "conduct.md::5"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How do I report misconduct?",
+    "source": "conduct.md",
+    "status": 200,
+    "answer": "To report misconduct, you should:\n\n1. Use the approved reporting channels—either the ethics mailbox or Human Resources (HR).  \n2. Provide a clear description of the observed events, avoiding speculation.  \n3. Preserve any relevant records that support your report.  \n4. Contact the responsible department (HR or compliance) for clarification if needed.  \n\nRetaliation against employees who make good‑faith reports is prohibited.  \n\n[conduct.md::2]  \n[conduct.md::6]",
+    "citations": [
+      {
+        "distance": 0.5716711282730103,
+        "id": "conduct.md::2",
+        "source": "conduct.md",
+        "text": "ifts policy and does not create additional entitlements. ## Reporting Employees may report misconduct to the ethics mailbox or HR. Retaliation for good-faith reports is prohibited. ### Procedure and accountability for reporting Employees should follow the stated reporting requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the reporting policy and does not create additional entitlements. ## Confidentiality Employees must protect customer and company confidential information even after employment ends. ### Procedure and accountability for confidentiality Employees should follow the stated confidentiality requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      },
+      {
+        "distance": 0.5989699363708496,
+        "id": "conduct.md::6",
+        "source": "conduct.md",
+        "text": "d scenario.** A gift valued at 75 USD falls above the threshold and must be declined or disclosed; a gift exactly at 50 USD does not trigger this particular greater-than threshold. **Employee workflow.** Estimate value in good faith; document the giver and business context; contact compliance before retaining a gift that exceeds the threshold. **Owner responsibilities.** Compliance evaluates disclosures and potential influence on business decisions. **Scope and limits.** This guide does not imply that gifts below the threshold are always appropriate or permitted in every circumstance. ### Reporting suspected misconduct **Rule and interpretation.** Employees may report misconduct to the ethics mailbox or HR, and retaliation for good-faith reports is prohibited. **Worked scenario.** A staff member who observes possible misconduct may contact HR even without resolving every factual uncertainty in advance. **Employee workflow.** Describe observed events rather than speculation; preserve relevant records; use an approved reporting channel; avoid unnecessary circulation of allegations."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1235.98,
+    "total_elapsed_ms": 7657.02,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 309.05,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1235.98,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "conduct.md::2",
+      "conduct.md::6"
+    ],
+    "citation_ids_returned": [
+      "conduct.md::2",
+      "conduct.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When is security training due for new hires?",
+    "source": "onboarding.md",
+    "status": 200,
+    "answer": "Security awareness training must be completed within the first **seven calendar days** of employment (calendar days include weekends).  \n[onboarding.md::0]  \n[onboarding.md::4]",
+    "citations": [
+      {
+        "distance": 0.32570040225982666,
+        "id": "onboarding.md::4",
+        "source": "onboarding.md",
+        "text": "nd interpretation.** New employees complete identity verification and payroll forms on their first working day. This is a first-day obligation, not a task to postpone indefinitely. **Worked scenario.** A new starter whose first day is Monday should be prepared to complete the required verification and payroll paperwork that day. **Employee workflow.** Follow HR instructions for secure submission; check that personal details are accurate; confirm receipt of the required forms. **Owner responsibilities.** HR coordinates verification and payroll setup and directs the employee to approved submission channels. **Scope and limits.** This guide does not specify acceptable identity documents or local payroll law. ### Security awareness deadline **Rule and interpretation.** Security awareness training must be completed within the first seven calendar days. Calendar days include weekends. **Worked scenario.** A new employee starting near the weekend should not assume the training deadline is seven working days later."
+      },
+      {
+        "distance": 0.34472572803497314,
+        "id": "onboarding.md::0",
+        "source": "onboarding.md",
+        "text": "# Employee Onboarding Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## First Day New employees complete identity verification and payroll forms on their first working day. ### Procedure and accountability for first day Employees should follow the stated first day requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the first day policy and does not create additional entitlements. ## Security Training Security awareness training must be completed within the first 7 calendar days. ### Procedure and accountability for security training Employees should follow the stated security training requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 680.31,
+    "total_elapsed_ms": 7120.51,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 326.06,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 680.31,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "onboarding.md::0",
+      "onboarding.md::4"
+    ],
+    "citation_ids_returned": [
+      "onboarding.md::0",
+      "onboarding.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How long is the probationary period?",
+    "source": "onboarding.md",
+    "status": 200,
+    "answer": "The standard probationary period is **90 calendar days** unless a contract or local law specifies a different duration.  \n[onboarding.md::2] [onboarding.md::7]",
+    "citations": [
+      {
+        "distance": 0.40320950746536255,
+        "id": "onboarding.md::2",
+        "source": "onboarding.md",
+        "text": "d to clarify administrative handling of the equipment policy and does not create additional entitlements. ## Orientation HR schedules a policy orientation during the first 2 weeks. ### Procedure and accountability for orientation Employees should follow the stated orientation requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the orientation policy and does not create additional entitlements. ## Probation The standard probationary period is 90 calendar days unless a contract or local law specifies otherwise. ### Procedure and accountability for probation Employees should follow the stated probation requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      },
+      {
+        "distance": 0.42444080114364624,
+        "id": "onboarding.md::7",
+        "source": "onboarding.md",
+        "text": "nduct and information security; consult the actual written policies afterward. **Owner responsibilities.** HR arranges the session and explains where current policies can be found. **Scope and limits.** Orientation attendance does not replace written approval required under other policies. ### Probation and contract exceptions **Rule and interpretation.** The standard probationary period is 90 calendar days unless a contract or local law specifies otherwise. The exception is explicit and should be checked before stating a final date. **Worked scenario.** An employee whose employment agreement specifies a different lawful probation period should not automatically assume the 90-day default overrides the contract. **Employee workflow.** Review the employment agreement and HR record; ask HR to resolve inconsistencies; keep a copy of formal probation communications. **Owner responsibilities.** HR interprets the applicable contract and law, while managers document performance feedback through approved processes."
+      }
+    ],
+    "error": null,
+    "latency_ms": 835.77,
+    "total_elapsed_ms": 20544.53,
+    "attempt_count": 3,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 389.08,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 502,
+        "latency_ms": 384.67,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 3,
+        "status": 200,
+        "latency_ms": 835.77,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "onboarding.md::2",
+      "onboarding.md::7"
+    ],
+    "citation_ids_returned": [
+      "onboarding.md::2",
+      "onboarding.md::7"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When do performance reviews occur?",
+    "source": "performance.md",
+    "status": 200,
+    "answer": "Performance reviews are scheduled twice a year, specifically in **June and December**.  \n[performance.md::0]  \n[performance.md::4]  \n[performance.md::3]",
+    "citations": [
+      {
+        "distance": 0.4823186993598938,
+        "id": "performance.md::4",
+        "source": "performance.md",
+        "text": "eview calendar **Rule and interpretation.** Formal performance reviews occur twice yearly, in June and December. The schedule identifies review months rather than a particular day. **Worked scenario.** A worker preparing for the June cycle should gather evidence of progress without assuming that the review must occur on June 1. **Employee workflow.** Review agreed goals, collect examples of results and discuss scheduling with the manager. **Owner responsibilities.** Managers organize review meetings and document outcomes in the designated process. **Scope and limits.** This section does not create a third formal review or a mandatory rating distribution. ### Measurable goal setting **Rule and interpretation.** Employees and managers agree on measurable goals at the start of each review period. A measurable goal identifies what outcome will be assessed. **Worked scenario.** Instead of only saying improve documentation, a team might agree to complete a defined set of reviewed technical guides by a specified internal milestone."
+      },
+      {
+        "distance": 0.5282930731773376,
+        "id": "performance.md::0",
+        "source": "performance.md",
+        "text": "# Performance and Development Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Reviews Formal performance reviews occur twice yearly, in June and December. ### Procedure and accountability for reviews Employees should follow the stated reviews requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the reviews policy and does not create additional entitlements. ## Goals Employees and managers agree on measurable goals at the start of each review period. ### Procedure and accountability for goals Employees should follow the stated goals requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      },
+      {
+        "distance": 0.5607560873031616,
+        "id": "performance.md::3",
+        "source": "performance.md",
+        "text": "appeals requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the appeals policy and does not create additional entitlements. ## Operational handbook: applied scenarios and decision guidance The following illustrative procedures explain how to apply the policy rules above. They are fictional examples, not additional entitlements, deadlines or exceptions. Where a scenario is ambiguous, the controlling rule remains the policy statement above and the responsible owner must clarify it. ### Formal review calendar **Rule and interpretation.** Formal performance reviews occur twice yearly, in June and December. The schedule identifies review months rather than a particular day."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1152.79,
+    "total_elapsed_ms": 1152.83,
+    "attempt_count": 1,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 200,
+        "latency_ms": 1152.79,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "performance.md::0",
+      "performance.md::3",
+      "performance.md::4"
+    ],
+    "citation_ids_returned": [
+      "performance.md::0",
+      "performance.md::3",
+      "performance.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How much annual learning funding is available?",
+    "source": "performance.md",
+    "status": 200,
+    "answer": "Full‑time employees may request up to **$750 USD annually** for approved job‑related learning. [performance.md::6]",
+    "citations": [
+      {
+        "distance": 0.4879493713378906,
+        "id": "performance.md::6",
+        "source": "performance.md",
+        "text": "ecord agreed follow-up actions and communicate obstacles early. **Owner responsibilities.** Managers provide actionable feedback and separate coaching from formal rating decisions. **Scope and limits.** This section does not add a formal monthly rating requirement. ### Learning and development requests **Rule and interpretation.** Full-time employees may request up to 750 USD annually for approved job-related learning. Approval is required; the amount is a ceiling, not an automatic cash benefit. **Worked scenario.** An employee seeking a 600 USD course should explain its connection to the role and obtain approval before assuming reimbursement. **Employee workflow.** Prepare a course description, cost and work relevance; submit the approval request; retain supporting records. **Owner responsibilities.** Managers or designated approvers evaluate relevance and budget under the stated policy. **Scope and limits.** The policy does not specify unused-budget carryover or entitlement to cash in lieu of training."
+      }
+    ],
+    "error": null,
+    "latency_ms": 745.22,
+    "total_elapsed_ms": 7864.56,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 289.75,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 745.22,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "performance.md::6"
+    ],
+    "citation_ids_returned": [
+      "performance.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When are three vendor quotes required?",
+    "source": "procurement.md",
+    "status": 200,
+    "answer": "Three vendor quotes are required for any purchase that exceeds $5,000 USD, unless procurement approves an exception.  \n[procurement.md::0]  \n[procurement.md::4]",
+    "citations": [
+      {
+        "distance": 0.4926307201385498,
+        "id": "procurement.md::4",
+        "source": "procurement.md",
+        "text": "ases above 500 USD require manager approval before an order is placed. The rule uses above, so the stated threshold is not automatically triggered by a purchase of exactly 500 USD. **Worked scenario.** A team member considering a 620 USD software subscription must obtain manager approval before committing to the purchase. **Employee workflow.** Prepare a business justification, total anticipated cost and supplier details; obtain and retain approval before ordering. **Owner responsibilities.** Managers review budget and need; procurement advises on additional thresholds. **Scope and limits.** The policy does not authorize bypassing other applicable controls for purchases at or below 500 USD. ### Competitive quotes **Rule and interpretation.** Purchases above 5,000 USD require at least three comparable vendor quotations unless procurement approves an exception. Comparability matters as much as the count. **Worked scenario.** Three quotes for materially different products may not allow a fair comparison even if the purchasing file contains three documents."
+      },
+      {
+        "distance": 0.5513980388641357,
+        "id": "procurement.md::0",
+        "source": "procurement.md",
+        "text": "# Purchasing and Procurement Fictional Acme Northstar Ltd. internal policy. Version 1.0. Effective 2026-01-01. ## Approvals Purchases above 500 USD require manager approval before an order is placed. ### Procedure and accountability for approvals Employees should follow the stated approvals requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the approvals policy and does not create additional entitlements. ## Competition Purchases above 5000 USD require at least 3 comparable vendor quotations unless procurement approves an exception. ### Procedure and accountability for competition Employees should follow the stated competition requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 762.89,
+    "total_elapsed_ms": 7143.63,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 302.14,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 762.89,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "procurement.md::0",
+      "procurement.md::4"
+    ],
+    "citation_ids_returned": [
+      "procurement.md::0",
+      "procurement.md::4"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What purchases require a purchase order?",
+    "source": "procurement.md",
+    "status": 200,
+    "answer": "Purchases that exceed $1,000 USD must be supported by an approved purchase order.  \n[procurement.md::6] [procurement.md::1] [procurement.md::2]",
+    "citations": [
+      {
+        "distance": 0.4355342984199524,
+        "id": "procurement.md::6",
+        "source": "procurement.md",
+        "text": "oarding requirement. **Worked scenario.** A first-time consultant may finish an engagement, but finance should not release payment before the required supplier checks are complete. **Employee workflow.** Submit vendor information through approved channels; verify documentation is complete; avoid exchanging sensitive supplier data in informal messages. **Owner responsibilities.** Procurement and finance coordinate the supplier checks and payment readiness. **Scope and limits.** This guide does not enumerate all due-diligence documents or promise an onboarding completion time. ### Purchase orders **Rule and interpretation.** Purchases above 1,000 USD require an approved purchase order. This is distinct from the manager-approval threshold and the three-quote threshold. **Worked scenario.** A 1,500 USD equipment order exceeds both the 500 USD manager-approval threshold and the 1,000 USD purchase-order threshold, but not the 5,000 USD competition threshold."
+      },
+      {
+        "distance": 0.4691041111946106,
+        "id": "procurement.md::1",
+        "source": "procurement.md",
+        "text": "etition requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the competition policy and does not create additional entitlements. ## Suppliers New suppliers must complete vendor due diligence before payment. ### Procedure and accountability for suppliers Employees should follow the stated suppliers requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the suppliers policy and does not create additional entitlements. ## Purchase Orders Purchases above 1000 USD require an approved purchase order."
+      },
+      {
+        "distance": 0.48213839530944824,
+        "id": "procurement.md::2",
+        "source": "procurement.md",
+        "text": "clarify administrative handling of the suppliers policy and does not create additional entitlements. ## Purchase Orders Purchases above 1000 USD require an approved purchase order. ### Procedure and accountability for purchase orders Employees should follow the stated purchase orders requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the purchase orders policy and does not create additional entitlements. ## Splitting Splitting purchases to bypass approval thresholds is prohibited. ### Procedure and accountability for splitting Employees should follow the stated splitting requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      }
+    ],
+    "error": null,
+    "latency_ms": 822.65,
+    "total_elapsed_ms": 7629.54,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 293.09,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 822.65,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "procurement.md::1",
+      "procurement.md::2",
+      "procurement.md::6"
+    ],
+    "citation_ids_returned": [
+      "procurement.md::1",
+      "procurement.md::2",
+      "procurement.md::6"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How long must executed contracts be retained?",
+    "source": "data-retention.md",
+    "status": 200,
+    "answer": "The retrieved policies did not yield a verifiably cited answer. Please rephrase your question.",
+    "citations": [],
+    "error": null,
+    "latency_ms": 791.36,
+    "total_elapsed_ms": 7353.9,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 291.51,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 791.36,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [],
+    "citation_ids_returned": [],
+    "citation_ids_consistent": false,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Does a legal hold suspend deletion?",
+    "source": "data-retention.md",
+    "status": 200,
+    "answer": "Yes. A legal hold suspends routine deletion of records until legal counsel releases the hold. The policy states that “Legal holds suspend routine deletion until legal counsel releases the hold” and that “Only a release from legal counsel ends the suspension under the stated rule.”[data-retention.md::2][data-retention.md::7]",
+    "citations": [
+      {
+        "distance": 0.3023917078971863,
+        "id": "data-retention.md::2",
+        "source": "data-retention.md",
+        "text": " administrative handling of the deletion policy and does not create additional entitlements. ## Access Records access is restricted to authorized personnel on a need-to-know basis. ### Procedure and accountability for access Employees should follow the stated access requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above. Exceptions require written approval by the policy owner and must not override applicable law. This section is intended to clarify administrative handling of the access policy and does not create additional entitlements. ## Legal Holds Legal holds suspend routine deletion until legal counsel releases the hold. ### Procedure and accountability for legal holds Employees should follow the stated legal holds requirement, retain relevant records when applicable, and contact the responsible department for clarification. Managers must verify requests against the rule stated above."
+      },
+      {
+        "distance": 0.42481130361557007,
+        "id": "data-retention.md::7",
+        "source": "data-retention.md",
+        "text": "tract but not unrelated personnel records. **Employee workflow.** Request access through approved channels; use records only for the authorized purpose; report accidental exposure. **Owner responsibilities.** System owners review permissions and remove unnecessary access when responsibilities change. **Scope and limits.** This guidance does not establish a new role hierarchy or universal access matrix. ### Legal holds and release **Rule and interpretation.** Legal holds suspend routine deletion until legal counsel releases the hold. Only a release from legal counsel ends the suspension under the stated rule. **Worked scenario.** A project may close while a legal hold remains active; the closure does not authorize deleting the preserved records. **Employee workflow.** Preserve potentially affected material, avoid routine disposal and ask legal counsel about the scope and release status. **Owner responsibilities.** Legal counsel controls the release decision; records and IT teams maintain preservation procedures."
+      }
+    ],
+    "error": null,
+    "latency_ms": 1377.81,
+    "total_elapsed_ms": 8344.06,
+    "attempt_count": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "status": 502,
+        "latency_ms": 297.36,
+        "error": "LLM service unavailable"
+      },
+      {
+        "attempt": 2,
+        "status": 200,
+        "latency_ms": 1377.81,
+        "error": null
+      }
+    ],
+    "citation_ids_in_answer": [
+      "data-retention.md::2",
+      "data-retention.md::7"
+    ],
+    "citation_ids_returned": [
+      "data-retention.md::2",
+      "data-retention.md::7"
+    ],
+    "citation_ids_consistent": true,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  }
+]

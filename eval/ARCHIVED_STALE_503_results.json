@@ -1,0 +1,252 @@
+[
+  {
+    "question": "How many annual leave days do full-time employees get?",
+    "source": "leave.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 112350.61,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How early should I request annual leave?",
+    "source": "leave.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 44.82,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When is a medical certificate needed?",
+    "source": "leave.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.75,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How many remote days are permitted each week?",
+    "source": "remote-work.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 29.73,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What are the core collaboration hours?",
+    "source": "remote-work.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 35.26,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Can I work remotely from another country without approval?",
+    "source": "remote-work.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 34.22,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Is MFA required for company email?",
+    "source": "security.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 123.2,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How quickly must a lost device be reported?",
+    "source": "security.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 43.76,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Can restricted data be uploaded to public AI tools?",
+    "source": "security.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.88,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When must expense claims be submitted?",
+    "source": "expenses.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.63,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the domestic meal allowance?",
+    "source": "expenses.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 31.39,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When does a hotel need preapproval?",
+    "source": "expenses.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 44.44,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Who publishes the holiday calendar?",
+    "source": "holidays.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.29,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What happens when an employee works on a holiday?",
+    "source": "holidays.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 33.48,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the standard weekly work schedule?",
+    "source": "holidays.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 27.83,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What is the vendor gift threshold?",
+    "source": "conduct.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 26.99,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How do I report misconduct?",
+    "source": "conduct.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 32.04,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When is security training due for new hires?",
+    "source": "onboarding.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 31.18,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How long is the probationary period?",
+    "source": "onboarding.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 28.2,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When do performance reviews occur?",
+    "source": "performance.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 26.81,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How much annual learning funding is available?",
+    "source": "performance.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 33.87,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "When are three vendor quotes required?",
+    "source": "procurement.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 33.98,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "What purchases require a purchase order?",
+    "source": "procurement.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.21,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "How long must executed contracts be retained?",
+    "source": "data-retention.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 30.41,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  },
+  {
+    "question": "Does a legal hold suspend deletion?",
+    "source": "data-retention.md",
+    "status": 503,
+    "answer": null,
+    "citations": [],
+    "latency_ms": 26.73,
+    "groundedness_manual": null,
+    "citation_accuracy_manual": null
+  }
+]
